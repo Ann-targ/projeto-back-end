@@ -120,3 +120,7 @@ Filtros da busca de produtos: `limit`, `page`, `match`, `category_ids` e `price-
 - 401: token inválido
 - 404: item não encontrado
 - 500: erro interno do servidor
+
+## Documentação da API (swagger)
+
+Com o servidor rodando, acesse 'http://localhost//;3000/api-docs'.
